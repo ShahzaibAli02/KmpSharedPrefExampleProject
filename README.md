@@ -87,7 +87,7 @@ fun getFloat(key: String, defaultValue: Float = 0.0f): Float
 
 ### 6️⃣ Screenshots
 
-![App Screenshot ](ss1.png)
+![App Screenshot ](ss2.png)
 
 ## Features
 
