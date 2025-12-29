@@ -1,8 +1,8 @@
-# KmpSharedPref
+# KmpSharedPref  KMM (Kotlin Multiplatform)
 
 Save primitive values effortlessly across Android & iOS!
 One simple, unified API for SharedPreferences (Android) and UserDefaults (iOS).
-Lightweight Kotlin Multiplatform library – write once, persist anywhere. 🚀
+Lightweight KMM (Kotlin Multiplatform) library – write once, persist anywhere. 🚀
 
 ---
 
@@ -99,5 +99,3 @@ fun getFloat(key: String, defaultValue: Float = 0.0f): Float
 * ✅ Fully multiplatform: no Android/iOS specific code needed in common module
 
 ---
-
-##
